@@ -1,5 +1,7 @@
 ### Seattle Airbnb Analysis- a Tableau Project
 
+MDS DATA Visulization II course project, collabrated with Alex Tamm and KT Hobbs
+
 •	Collected, joined and cleaned over 105765 Seattle Airbnb listings (web data scraped from December 2018 to November 2019)
 
 •	Visualized temporal and geographical analysis of the nightly prices and occupancy rates using Tableau interactive dashboards including maps and horizon charts 

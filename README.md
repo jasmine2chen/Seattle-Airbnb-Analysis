@@ -1,6 +1,6 @@
 ### Seattle Airbnb Analysis- a Tableau Project
 
-DATA Visualization II course project 
+Tools: Python for data wrangling, Tableau for visualization 
 
 - Collected, joined and cleaned over 105765 Seattle Airbnb listings (web data scraped from December 2018 to November 2019)
 

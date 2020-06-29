@@ -10,4 +10,4 @@ DATA Visualization II course project
 
 - Investigated the performance of top 20 hosts using interactive dashboards including maps and bar charts 
 
-- - Visualization analysis published on https://public.tableau.com/profile/jasmine.chen7038#!/vizhome/SeattleAirbnbAnalysis_15907982512200/Story1
+Visualization analysis published on https://public.tableau.com/profile/jasmine.chen7038#!/vizhome/SeattleAirbnbAnalysis_15907982512200/Story1

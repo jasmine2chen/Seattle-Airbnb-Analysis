@@ -8,6 +8,6 @@
 
 - Investigated the factors impacting occupancy rates using box plots
 
-- Investigated the performance of top 20 hosts using interactive dashboards including maps and bar charts 
+- Investigated the performance of top 10 hosts using interactive dashboards including maps and bar charts 
 
 Visualization analysis published on https://public.tableau.com/profile/jasmine.chen7038#!/vizhome/SeattleAirbnbAnalysis_15907982512200/Story1
